@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Ingame/Ingame.vcxproj" Id="84a9368a-f5cb-475e-9412-538b7a8b2aad" />
+  <Project Path="Lobby/Lobby.csproj" />
+  <Project Path="Match/Match.vcxproj" Id="47390289-1bae-4617-b72f-7d8197d06ec0" />
+</Solution>
