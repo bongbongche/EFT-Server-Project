@@ -4,6 +4,10 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path="../.gitignore" />
+    <File Path="../README.md" />
+  </Folder>
   <Project Path="Ingame/Ingame.vcxproj" Id="84a9368a-f5cb-475e-9412-538b7a8b2aad" />
   <Project Path="Lobby/Lobby.csproj" Id="44c0e75c-709c-4aa7-b557-3c3f8118c5b4" />
   <Project Path="Match/Match.vcxproj" Id="47390289-1bae-4617-b72f-7d8197d06ec0" />
